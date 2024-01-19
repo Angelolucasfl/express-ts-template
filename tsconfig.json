@@ -13,8 +13,7 @@
 		"forceConsistentCasingInFileNames": true,
 		"strict": true,
 		"noImplicitAny": true,
-		"strictPropertyInitialization": false,
-		"typeRoots": ["./src/@types"]
+		"strictPropertyInitialization": false
 	},
 	"include": ["src/**/*"],
 	"exclude": ["node_modules", "dist"],
