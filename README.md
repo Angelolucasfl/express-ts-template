@@ -55,7 +55,7 @@ npm run test
 
 ## 📦 Tecnologias usadas:
 
-Além do typescript e do express, esse template tambem contém o prisma como ORM, o Eslint com o Prettier pra fortação e detecção de erros, jest e supertest pra testagem e swagger pra documentação.
+Além do typescript e do express, esse template tambem contém o prisma como ORM, o Eslint com o Prettier pra formatação e detecção de erros, jest e supertest pra testagem e swagger pra documentação.
 
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
